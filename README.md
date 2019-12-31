@@ -1,13 +1,14 @@
 # Livonia-TKO
+"ThomasTKO"
 My Mission for Livonia
 
-Thats my version of Trader for Livonia , with loot tabel 
+This is my version of traders for Livonia, with loot table. 
 use this startline -mod=enoch;@Exile; 
-as exempel 
+Example: 
 -name=Exile "-mod=enoch;@Exile;@Extended_Base_Mod;" "-serverMod=
 @infiSTAR_Exile;@A3XAI;"  -autoinit
 
-!!! where would i put the livoniaBuildings !!!
+!!! Where to put the livoniaBuilding.cpp !!!
 
 @ExileServer\addons\exile_server_config.pbo and include it in config.cpp file
 class CfgBuildings
