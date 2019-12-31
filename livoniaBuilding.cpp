@@ -1,5 +1,6 @@
-//https://forums.bohemia.net/forums/topic/224373-loot-position-for-livoniatraders-spawn-zones-by-noelite/
-
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//  https://forums.bohemia.net/forums/topic/224373-loot-position-for-livoniatraders-spawn-zones-by-noelite/  //
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////
 class Land_DeerStand_01_F: Military
 	{
 		positions[] =
@@ -8,7 +9,6 @@ class Land_DeerStand_01_F: Military
 			{0.630859,-2.29004,1.24426}
 		};
 	};
-
 	class Land_FeedShack_01_F: Shop
 	{
 		positions[] =
@@ -17,7 +17,6 @@ class Land_DeerStand_01_F: Military
 			{3.28711,0.0769043,0.14785}
 		};
 	};
-
 	class Land_House_1W03_F: CivillianLowerClass
 	{
 		positions[] =
@@ -26,7 +25,6 @@ class Land_DeerStand_01_F: Military
 			{-3.47949,-5.78125,-2.36115}
 		};
 	};
-
 	class Land_WaterStation_01_F: Shop
 	{
 		positions[] =
@@ -34,7 +32,6 @@ class Land_DeerStand_01_F: Military
 			{-0.584961,-1.98242,-0.890156}
 		};
 	};
-
 	class Land_House_1W11_F: CivillianLowerClass
 	{
 		positions[] =
@@ -49,7 +46,6 @@ class Land_DeerStand_01_F: Military
 			{-0.978271,0.920898,-2.60559}
 		};
 	};
-
 	class Land_PowerStation_01_F: Factories
 	{
 		positions[] =
@@ -61,7 +57,6 @@ class Land_DeerStand_01_F: Military
 			{3.354,5.55371,-1.4641}
 		};
 	};
-
 	class Land_House_1W12_F: CivillianLowerClass
 	{
 		positions[] =
@@ -72,7 +67,6 @@ class Land_DeerStand_01_F: Military
 			{2.46143,-5.47119,-2.41423}
 		};
 	};
-
 	class Land_Shed_14_F: Industrial
 	{
 		positions[] =
@@ -80,7 +74,6 @@ class Land_DeerStand_01_F: Military
 			{-0.123047,2.45166,-1.09441}
 		};
 	};
-
 	class Land_Workshop_04_F: Industrial
 	{
 		positions[] =
@@ -90,7 +83,6 @@ class Land_DeerStand_01_F: Military
 			{-0.167969,-5.74097,-1.10866}
 		};
 	};
-
 	class Land_Workshop_02_F: Shop
 	{
 		positions[] =
@@ -99,7 +91,6 @@ class Land_DeerStand_01_F: Military
 			{0.973145,0.638184,-1.28378}
 		};
 	};
-
 	class Land_House_1W05_F: CivillianLowerClass
 	{
 		positions[] =
@@ -110,7 +101,6 @@ class Land_DeerStand_01_F: Military
 			{4.63477,-1.37256,-0.952885}
 		};
 	};
-
 	class Land_Shed_09_F: Shop
 	{
 		positions[] =
@@ -118,7 +108,6 @@ class Land_DeerStand_01_F: Military
 			{1.01611,2.22388,-1.05556}
 		};
 	};
-
 	class Land_Shed_11_F: Industrial
 	{
 		positions[] =
@@ -126,7 +115,6 @@ class Land_DeerStand_01_F: Military
 			{0.443848,1.94629,-0.518093}
 		};
 	};
-
 	class Land_Shed_12_F: Factories
 	{
 		positions[] =
@@ -134,7 +122,6 @@ class Land_DeerStand_01_F: Military
 			{0.0507813,1.271,-0.646645}
 		};
 	};
-
 	class Land_Shed_10_F: Shop
 	{
 		positions[] =
@@ -142,7 +129,6 @@ class Land_DeerStand_01_F: Military
 			{1.3186,0.202637,0.350813}
 		};
 	};
-
 	class Land_FuelStation_02_workshop_F: Shop
 	{
 		positions[] =
@@ -156,7 +142,6 @@ class Land_DeerStand_01_F: Military
 			{-1.09485,-1.32275,-0.775249}
 		};
 	};
-
 	class Land_House_1W08_F: CivillianLowerClass
 	{
 		positions[] =
@@ -168,7 +153,6 @@ class Land_DeerStand_01_F: Military
 			{5.55518,3.81824,-1.82176}
 		};
 	};
-
 	class Land_Workshop_01_grey_F: Shop
 	{
 		positions[] =
@@ -177,7 +161,6 @@ class Land_DeerStand_01_F: Military
 			{3.87537,-0.764648,-0.895344}
 		};
 	};
-
 	class Land_House_1W10_F: CivillianLowerClass
 	{
 		positions[] =
@@ -188,7 +171,6 @@ class Land_DeerStand_01_F: Military
 			{-4.63599,-0.29834,-1.69568}
 		};
 	};
-
 	class Land_House_1W04_F: CivillianUpperClass
 	{
 		positions[] =
@@ -198,32 +180,31 @@ class Land_DeerStand_01_F: Military
 			{-4.177,-3.19092,-2.60669}
 		};
 	};
-
 	class Land_Factory_02_F: Factories
 	{
 		positions[] =
 		{
-			{-12.4287,1.87512,-5.7895},
+			{-12.4287,1.87512,-5},
 			{5.03369,-5.07971,-5.52647},
 			{14.0283,-5.07959,-5.52647},
 			{4.24219,2.26416,-5.52647},
 			{6.15381,8.19458,-5.52647},
 			{12.7324,8.19446,-5.52647},
-			{-5.74805,1.87537,-5.7895},
+			{-5.74805,1.87537,-5},
 			{4.24658,2.11292,-2.33584},
-			{-12.6401,7.52283,-5.7895},
-			{-6.9043,-3.79968,-5.7895},
-			{-8.89453,7.52307,-5.7895},
-			{-12.4287,-0.948608,-5.7895},
-			{-5.04883,6.11096,-5.7895},
-			{-16.8823,6.11096,-5.7895},
+			{-12.6401,7.52283,-5},
+			{-6.9043,-3.79968,-5},
+			{-8.89453,7.52307,-5},
+			{-12.4287,-0.948608,-5},
+			{-5.04883,6.11096,-5},
+			{-16.8823,6.11096,-5},
 			{5.0332,-6.47729,-5.52647},
-			{-8.37109,-2.36035,-5.7895},
-			{-8.57666,4.6991,-5.7895},
-			{-12.4287,-0.948608,-5.7895},
-			{-12.4287,4.6991,-5.7895},
-			{-4.27441,-3.02087,-5.7895},
-			{-0.956543,4.69922,-5.7895},
+			{-8.37109,-2.36035,-5},
+			{-8.57666,4.6991,-5},
+			{-12.4287,-0.948608,-5},
+			{-12.4287,4.6991,-5},
+			{-4.27441,-3.02087,-5},
+			{-0.956543,4.69922,-5},
 			{4.85547,10.2721,-5.52647},
 			{14.376,10.2722,-5.52647},
 			{16.0215,7.65735,-5.52647},
@@ -231,7 +212,6 @@ class Land_DeerStand_01_F: Military
 			{14.0283,-6.47717,-5.52647}
 		};
 	};
-
 	class Land_Caravan_01_rust_F: Shop
 	{
 		positions[] =
@@ -239,26 +219,24 @@ class Land_DeerStand_01_F: Military
 			{0.318726,4.29248,0.146877}
 		};
 	};
-
 	class Land_Barn_03_large_F: Military
 	{
 		positions[] =
 		{
 			{0.192383,22.5242,-3.16416},
 			{1.75293,18.7556,-2.61519},
-			{-5.51367,9.44556,-2.61855},
-			{-6.25244,-9.25354,-2.61855},
-			{6.25391,9.93738,-2.61855},
-			{5.68359,-9.50171,-2.61855},
+			{-5.51367,9.44556,-2.6},
+			{-6.25244,-9.25354,-2.6},
+			{6.25391,9.93738,-2.6},
+			{5.68359,-9.50171,-2.6},
 			{-1.19336,-17.6299,-2.61519},
-			{-6.34424,-14.245,-2.61855},
-			{6.3457,14.9288,-2.61855},
+			{-6.34424,-14.245,-2.6},
+			{6.3457,14.9288,-2.6},
 			{7.90479,15.1421,-3.16416},
 			{-7.90381,-14.438,-3.1585},
 			{0.251953,-21.8406,-3.06486}
 		};
 	};
-
 	class Land_CastleRuins_01_bastion_F: Military
 	{
 		positions[] =
@@ -269,7 +247,6 @@ class Land_DeerStand_01_F: Military
 			{-2.99902,3.7569,3.28244}
 		};
 	};
-
 	class Land_Camp_House_01_brown_F: Medical
 	{
 		positions[] =
@@ -277,7 +254,6 @@ class Land_DeerStand_01_F: Military
 			{-0.162109,3.74951,-1.22614}
 		};
 	};
-
 	class Land_House_1W01_F: CivillianUpperClass
 	{
 		positions[] =
@@ -286,7 +262,6 @@ class Land_DeerStand_01_F: Military
 			{-4.29199,0.99292,-2.66455}
 		};
 	};
-
 	class Land_Unfinished_Building_01_F: Military
 	{
 		positions[] =
@@ -304,7 +279,6 @@ class Land_DeerStand_01_F: Military
 			{3.86523,0.966797,1.32397}
 		};
 	};
-
 	class Land_Workshop_04_grey_F: Factories
 	{
 		positions[] =
@@ -314,7 +288,6 @@ class Land_DeerStand_01_F: Military
 			{-0.167969,-5.74121,-1.10866}
 		};
 	};
-
 	class Land_Workshop_01_F: Shop
 	{
 		positions[] =
@@ -323,7 +296,6 @@ class Land_DeerStand_01_F: Military
 			{3.87598,-0.76416,-0.895348}
 		};
 	};
-
 	class Land_Barn_02_F: Military
 	{
 		positions[] =
@@ -335,46 +307,42 @@ class Land_DeerStand_01_F: Military
 			{2.99951,-6.01563,-3.84672}
 		};
 	};
-
 	class Land_House_1W09_F: CivillianUpperClass
 	{
 		positions[] =
 		{
-			{0.825195,0.883667,-1.9135},
-			{-6.73096,1.84583,-1.9135},
-			{-4.5459,3.93018,-1.9135},
-			{-2.81152,3.94531,-1.9135},
-			{-6.18896,-0.847534,-1.9135},
-			{-6.15283,-2.67688,-1.9135},
-			{-4.02588,-3.96619,-1.9135},
-			{-0.848633,-2.41162,-1.9135}
+			{0.825195,0.883667,-1.9},
+			{-6.73096,1.84583,-1.9},
+			{-4.5459,3.93018,-1.9},
+			{-2.81152,3.94531,-1.9},
+			{-6.18896,-0.847534,-1.9},
+			{-6.15283,-2.67688,-1.9},
+			{-4.02588,-3.96619,-1.9},
+			{-0.848633,-2.41162,-1.9}
 		};
 	};
-
 	class Land_House_1W02_F: CivillianUpperClass
 	{
 		positions[] =
 		{
-			{4.63501,-1.01855,-2.00576},
-			{0.223083,1.84668,-2.00576},
-			{-3.46692,0.700684,-2.00576}
+			{4.63501,-1.01855,-2},
+			{0.223083,1.84668,-2},
+			{-3.46692,0.700684,-2}
 		};
 	};
-
 	class Land_GarageOffice_01_F: VehicleService
 	{
 		positions[] =
 		{
-			{2.21655,-0.959473,-3.22504},
-			{1.96631,7.63867,-0.119297},
-			{-1.55896,7.11328,-0.119297},
-			{-0.937988,-2.11572,-0.119297},
-			{2.06946,7.33398,-3.22504},
-			{-2.10583,6.55859,-3.22504},
-			{-1.41956,-2.4751,-3.22504}
+			{2.21655,-0.959473,-3.2},
+			{1.96631,7.63867,-0.1},
+			{-1.55896,7.11328,-0.1},
+			{-0.937988,-2.11572,-0.1},
+			{2.06946,7.33398,-3.2},
+			{-2.10583,6.55859,-3.2},
+			{-1.41956,-2.4751,-3.2}
 		};
 	};
-
 	class Land_House_2B04_F: CivillianUpperClass
 	{
 		positions[] =
@@ -385,7 +353,6 @@ class Land_DeerStand_01_F: Military
 			{-3.72852,7.12299,-5.63762}
 		};
 	};
-
 	class Land_Workshop_03_F: Factories
 	{
 		positions[] =
@@ -395,7 +362,6 @@ class Land_DeerStand_01_F: Military
 			{0.036377,1.98535,-0.911549}
 		};
 	};
-
 	class Land_Mine_01_warehouse_F: Military
 	{
 		positions[] =
@@ -410,22 +376,20 @@ class Land_DeerStand_01_F: Military
 			{-3.87988,6.18799,-6.24056}
 		};
 	};
-
 	class Land_Radar_01_kitchen_F: Military
 	{
 		positions[] =
 		{
-			{-4.5708,-9.2041,-3.70574},
-			{5.0874,-3.40186,-3.70574},
-			{7.99707,-7.11914,-3.70574},
-			{5.76416,-0.333496,-3.70574},
-			{0.411621,0.222168,-3.70574},
-			{-4.87793,-0.556641,-3.70574},
-			{-1.82813,11.313,-3.70574},
-			{0.401367,10.8916,-3.70574}
+			{-4.5708,-9.2041,-3.7},
+			{5.0874,-3.40186,-3.7},
+			{7.99707,-7.11914,-3.7},
+			{5.76416,-0.333496,-3.7},
+			{0.411621,0.222168,-3.7},
+			{-4.87793,-0.556641,-3.7},
+			{-1.82813,11.313,-3.7},
+			{0.401367,10.8916,-3.7}
 		};
 	};
-
 	class Land_Substation_01_F: Military
 	{
 		positions[] =
@@ -433,35 +397,32 @@ class Land_DeerStand_01_F: Military
 			{-0.0859375,2.97754,-4.07775}
 		};
 	};
-
 	class Land_Workshop_05_F: Shop
 	{
 		positions[] =
 		{
-			{-1.31042,3.89893,-1.23525},
+			{-1.31042,3.89893,-1.2},
 			{-1.47424,5.66113,-1.23635},
 			{3.4729,-1.4668,-1.23635}
 		};
 	};
-
 	class Land_House_1B01_F: CivillianUpperClass
 	{
 		positions[] =
 		{
-			{7.51953,-2.24042,-2.72919},
-			{6.96338,-5.53381,-2.72919},
-			{4.88379,-5.6438,-2.72919},
-			{1.44922,-1.31439,-2.72919},
-			{3.20117,2.76855,-2.72919},
-			{-1.98682,10.0344,-2.72919},
-			{0.257324,10.1907,-2.72919},
-			{2.50879,9.67676,-2.72919},
-			{4.69092,10.2286,-2.72919},
-			{7.13232,10.2936,-2.72919},
-			{7.39941,8.04706,-2.72919}
+			{7.51953,-2.24042,-2.7},
+			{6.96338,-5.53381,-2.7},
+			{4.88379,-5.6438,-2.7},
+			{1.44922,-1.31439,-2.7},
+			{3.20117,2.76855,-2.7},
+			{-1.98682,10.0344,-2.7},
+			{0.257324,10.1907,-2.7},
+			{2.50879,9.67676,-2.7},
+			{4.69092,10.2286,-2.7},
+			{7.13232,10.2936,-2.7},
+			{7.39941,8.04706,-2.7}
 		};
 	};
-
 	class Land_IndustrialShed_01_F: Factories
 	{
 		positions[] =
@@ -469,21 +430,21 @@ class Land_DeerStand_01_F: Military
 			{2.6709,-11.2828,-4.81291},
 			{0.98291,-8.0354,-4.63161},
 			{4.67139,-3.76953,-4.63161},
-			{0.42334,-9.50403,-1.15561},
-			{4.89697,-9.39282,-1.15561},
-			{5.01611,-6.52124,-1.15561},
-			{4.98779,-2.57922,-1.15561},
-			{4.98486,2.47815,-1.15561},
-			{4.99951,6.07446,-1.15561},
-			{4.95117,9.27783,-1.15561},
-			{-0.508301,9.3761,-1.15561},
-			{-3.74023,9.51575,-1.15561},
-			{-0.371582,11.0377,-1.15561},
-			{-0.70459,12.068,-1.15561},
-			{-3.77441,6.22778,-1.15561},
-			{-3.77441,2.44153,-1.15561},
-			{-3.79297,-2.86658,-1.15561},
-			{-3.71924,-8.6145,-1.15561},
+			{0.42334,-9.50403,-1.15},
+			{4.89697,-9.39282,-1.15},
+			{5.01611,-6.52124,-1.15},
+			{4.98779,-2.57922,-1.15},
+			{4.98486,2.47815,-1.15},
+			{4.99951,6.07446,-1.15},
+			{4.95117,9.27783,-1.15},
+			{-0.508301,9.3761,-1.15},
+			{-3.74023,9.51575,-1.15},
+			{-0.371582,11.0377,-1.15},
+			{-0.70459,12.068,-1.15},
+			{-3.77441,6.22778,-1.15},
+			{-3.77441,2.44153,-1.15},
+			{-3.79297,-2.86658,-1.15},
+			{-3.71924,-8.6145,-1.15},
 			{-2.24951,11.2544,-4.8188},
 			{4.37354,6.18359,-4.63161},
 			{-1.46777,7.95251,-4.63161},
@@ -496,47 +457,43 @@ class Land_DeerStand_01_F: Military
 			{-4.53174,9.6217,-3.99186}
 		};
 	};
-
 	class Land_i_Shed_Ind_old_F: Factories
 	{
 		positions[] =
 		{
-			{-7.71045,0.239014,-1.36279},
-			{-7.8125,4.19043,-1.36279},
-			{1.01416,2.73975,-1.36279},
-			{-3.50928,-0.181152,-1.36279},
-			{-6.17822,6.41553,-1.36279},
-			{5.35205,4.77344,-1.36279},
-			{4.82227,-0.0334473,-1.36279},
-			{10.458,1.28784,-1.36279},
-			{14.2334,2.59473,-1.36279},
-			{14.5913,-0.998047,-1.36279}
+			{-7.71045,0.239014,-1.3},
+			{-7.8125,4.19043,-1.3},
+			{1.01416,2.73975,-1.3},
+			{-3.50928,-0.181152,-1.3},
+			{-6.17822,6.41553,-1.3},
+			{5.35205,4.77344,-1.3},
+			{4.82227,-0.0334473,-1.3},
+			{10.458,1.28784,-1.3},
+			{14.2334,2.59473,-1.3},
+			{14.5913,-0.998047,-1.3}
 		};
 	};
-
 	class Land_Workshop_05_grey_F: Industrial
 	{
 		positions[] =
 		{
-			{-1.3103,3.89893,-1.23525},
+			{-1.3103,3.89893,-1.2},
 			{-1.47437,5.66113,-1.23635},
 			{3.4729,-1.46631,-1.23635}
 		};
 	};
-
 	class Land_GarageRow_01_large_F: VehicleService
 	{
 		positions[] =
 		{
-			{-11.5928,-3.93579,-3.19896},
-			{-5.92676,-1.73389,-3.19896},
-			{0.148438,-1.47754,-3.19896},
-			{5.91846,-1.62769,-3.19896},
-			{6.17041,5.15845,-3.19896},
-			{-5.78223,5.35107,-3.19896}
+			{-11.5928,-3.93579,-3.2},
+			{-5.92676,-1.73389,-3.2},
+			{0.148438,-1.47754,-3.2},
+			{5.91846,-1.62769,-3.2},
+			{6.17041,5.15845,-3.2},
+			{-5.78223,5.35107,-3.2}
 		};
 	};
-
 	class Land_Cowshed_01_A_F: Military
 	{
 		positions[] =
@@ -555,7 +512,6 @@ class Land_DeerStand_01_F: Military
 			{-9.79736,3.66699,-2.7919}
 		};
 	};
-
 	class Land_Cowshed_01_B_F: Military
 	{
 		positions[] =
@@ -566,7 +522,6 @@ class Land_DeerStand_01_F: Military
 			{5.16064,-2.86035,-2.88198}
 		};
 	};
-
 	class Land_Cowshed_01_C_F: Military
 	{
 		positions[] =
@@ -575,7 +530,6 @@ class Land_DeerStand_01_F: Military
 			{-2.40137,-6.06982,-2.91364}
 		};
 	};
-
 	class Land_Barn_03_small_F: Military
 	{
 		positions[] =
@@ -586,7 +540,6 @@ class Land_DeerStand_01_F: Military
 			{-2.97119,0.178467,-2.13786}
 		};
 	};
-
 	class Land_Shed_05_F: Industrial
 	{
 		positions[] =
@@ -599,7 +552,6 @@ class Land_DeerStand_01_F: Military
 			{-2.19434,0.794189,-0.861992}
 		};
 	};
-
 	class Land_House_2B01_F: CivillianUpperClass
 	{
 		positions[] =
@@ -612,7 +564,6 @@ class Land_DeerStand_01_F: Military
 			{-2.052,-4.66504,-4.08233}
 		};
 	};
-
 	class Land_House_1W07_F: CivillianUpperClass
 	{
 		positions[] =
@@ -631,7 +582,6 @@ class Land_DeerStand_01_F: Military
 			{2.17114,3.08496,-3.01621}
 		};
 	};
-
 	class Land_Chapel_02_white_F: Medical
 	{
 		positions[] =
@@ -639,7 +589,6 @@ class Land_DeerStand_01_F: Military
 			{-0.110474,1.63428,-2.43833}
 		};
 	};
-
 	class Land_GarageRow_01_small_F: VehicleService
 	{
 		positions[] =
@@ -652,7 +601,6 @@ class Land_DeerStand_01_F: Military
 			{4.70313,0.185059,-1.50366}
 		};
 	};
-
 	class Land_Barn_04_F: Military
 	{
 		positions[] =
@@ -677,7 +625,6 @@ class Land_DeerStand_01_F: Military
 			{-0.676758,14.3116,-5.23054}
 		};
 	};
-
 	class Land_House_2W02_F: CivillianUpperClass
 	{
 		positions[] =
@@ -692,7 +639,6 @@ class Land_DeerStand_01_F: Military
 			{-1.06274,3.29688,-4.00533}
 		};
 	};
-
 	class Land_VillageStore_01_F: Shop
 	{
 		positions[] =
@@ -702,20 +648,18 @@ class Land_DeerStand_01_F: Military
 			{5.97803,2.24182,-1.73814}
 		};
 	};
-
 	class Land_House_1W06_F: CivillianUpperClass
 	{
 		positions[] =
 		{
-			{-2.06104,-0.940186,-0.515759},
-			{-2.12012,0.984741,-0.515759},
-			{4.02783,1.1991,-0.515759},
-			{4.4834,-0.963745,-0.515759},
-			{4.354,-3.22534,-0.515759},
-			{1.31543,-3.23621,-0.515759}
+			{-2.06104,-0.940186,-0.5},
+			{-2.12012,0.984741,-0.5},
+			{4.02783,1.1991,-0.5},
+			{4.4834,-0.963745,-0.5},
+			{4.354,-3.22534,-0.5},
+			{1.31543,-3.23621,-0.5}
 		};
 	};
-
 	class Land_House_2B03_F: CivillianUpperClass
 	{
 		positions[] =
@@ -727,20 +671,18 @@ class Land_DeerStand_01_F: Military
 			{-0.0887451,5.25684,-5.35728}
 		};
 	};
-
 	class Land_Sawmill_01_F: Industrial
 	{
 		positions[] =
 		{
-			{-0.832031,12.478,-4.86466},
-			{-0.555176,-0.0805664,-4.86466},
-			{2.23291,-9,-4.86466},
-			{6.46777,-2.67188,-4.86466},
-			{6.49609,0.739746,-4.86466},
-			{6.53955,7.7583,-4.86466}
+			{-0.832031,12.478,-4.8},
+			{-0.555176,-0.0805664,-4.8},
+			{2.23291,-9,-4.8},
+			{6.46777,-2.67188,-4.8},
+			{6.49609,0.739746,-4.8},
+			{6.53955,7.7583,-4.8}
 		};
 	};
-
 	class Land_House_2W01_F: CivillianUpperClass
 	{
 		positions[] =
@@ -752,39 +694,36 @@ class Land_DeerStand_01_F: Military
 			{-1.11768,-2.65674,0.0369568}
 		};
 	};
-
 	class Land_House_2B02_F: CivillianUpperClass
 	{
 		positions[] =
 		{
-			{0.00439453,-1.57617,-5.40536},
-			{0.0244141,4.36523,-5.40536},
-			{-8.74097,0.254883,-5.40536},
-			{-8.67261,5.55859,-5.40536},
-			{-7.1958,6.79395,-5.40536},
-			{8.8186,0.113281,-5.40536},
-			{8.69165,2.99512,-5.47363},
-			{7.646,6.86035,-5.40536}
+			{0.00439453,-1.57617,-5.4},
+			{0.0244141,4.36523,-5.4},
+			{-8.74097,0.254883,-5.4},
+			{-8.67261,5.55859,-5.4},
+			{-7.1958,6.79395,-5.4},
+			{8.8186,0.113281,-5.4},
+			{8.69165,2.99512,-5.4},
+			{7.646,6.86035,-5.4}
 		};
 	};
-
 	class Land_Church_04_lightblue_F: Military
 	{
 		positions[] =
 		{
 			{-0.834961,6.70508,-13.3994},
 			{-3.07275,3.83008,-9.79788},
-			{-0.875977,4.74219,2.88566},
-			{-0.168945,5.59375,2.88566},
-			{-0.143555,7.02539,2.88566},
-			{-0.905273,7.71973,2.88566},
-			{-2.25928,7.71973,2.88566},
-			{-2.8916,7.00977,2.88566},
-			{-2.89209,5.59668,2.88566},
-			{-2.16748,4.66992,2.88566}
+			{-0.875977,4.74219,2.8},
+			{-0.168945,5.59375,2.8},
+			{-0.143555,7.02539,2.8},
+			{-0.905273,7.71973,2.8},
+			{-2.25928,7.71973,2.8},
+			{-2.8916,7.00977,2.8},
+			{-2.89209,5.59668,2.8},
+			{-2.16748,4.66992,2.8}
 		};
 	};
-
 	class Land_PoliceStation_01_F: Military
 	{
 		positions[] =
@@ -804,7 +743,6 @@ class Land_DeerStand_01_F: Military
 			{-8.47461,-3.08252,1.30273}
 		};
 	};
-
 	class Land_GuardHouse_02_F: Industrial
 	{
 		positions[] =
@@ -818,7 +756,6 @@ class Land_DeerStand_01_F: Military
 			{-0.0361328,3.00684,-1.5513}
 		};
 	};
-
 	class Land_CementWorks_01_brick_F: Factories
 	{
 		positions[] =
@@ -859,7 +796,6 @@ class Land_DeerStand_01_F: Military
 			{8.39551,-9.12451,-4.33795}
 		};
 	};
-
 	class Land_GuardHouse_03_F: Military
 	{
 		positions[] =
@@ -869,7 +805,6 @@ class Land_DeerStand_01_F: Military
 			{-0.311523,1.93555,-0.860091}
 		};
 	};
-
 	class Land_House_2W03_F: CivillianUpperClass
 	{
 		positions[] =
@@ -882,7 +817,6 @@ class Land_DeerStand_01_F: Military
 			{-8.52783,2.12793,-0.746021}
 		};
 	};
-
 	class Land_Rail_Warehouse_Small_F: Factories
 	{
 		positions[] =
@@ -893,7 +827,6 @@ class Land_DeerStand_01_F: Military
 			{-3.00049,-3.41602,-1.24343}
 		};
 	};
-
 	class Land_House_2W04_F: CivillianUpperClass
 	{
 		positions[] =
@@ -907,7 +840,6 @@ class Land_DeerStand_01_F: Military
 			{6.6792,6.19287,-0.741716}
 		};
 	};
-
 	class Land_Rail_Station_Big_F: Factories
 	{
 		positions[] =
@@ -921,7 +853,6 @@ class Land_DeerStand_01_F: Military
 			{8.56372,0.768066,-4.91119}
 		};
 	};
-
 	class Land_Slum_House03_F: CivillianLowerClass
 	{
 		positions[] =
@@ -931,7 +862,6 @@ class Land_DeerStand_01_F: Military
 			{-1.81738,0.488037,-0.786293}
 		};
 	};
-
 	class Land_House_1W13_F: CivillianUpperClass
 	{
 		positions[] =
@@ -943,24 +873,22 @@ class Land_DeerStand_01_F: Military
 			{-4.05444,-0.781738,-1.88763}
 		};
 	};
-
 	class Land_Church_04_yellow_F: Medical
 	{
 		positions[] =
 		{
 			{-0.835449,6.70508,-13.3994},
 			{-3.07324,3.82959,-9.79788},
-			{-0.875977,4.7417,2.88566},
-			{-0.168945,5.59326,2.88566},
-			{-0.143555,7.0249,2.88566},
-			{-0.905762,7.71924,2.88566},
-			{-2.25928,7.71875,2.88566},
-			{-2.8916,7.00928,2.88566},
-			{-2.8916,5.5957,2.88566},
-			{-2.16699,4.66895,2.88566}
+			{-0.875977,4.7417,2.8},
+			{-0.168945,5.59326,2.8},
+			{-0.143555,7.0249,2.8},
+			{-0.905762,7.71924,2.8},
+			{-2.25928,7.71875,2.8},
+			{-2.8916,7.00928,2.8},
+			{-2.8916,5.5957,2.8},
+			{-2.16699,4.66895,2.8}
 		};
 	};
-
 	class Land_Radar_01_HQ_F: Military
 	{
 		positions[] =
@@ -1003,7 +931,6 @@ class Land_DeerStand_01_F: Military
 			{5.35938,3.4248,4.01338}
 		};
 	};
-
 	class Land_Unfinished_Building_02_F: Factories
 	{
 		positions[] =
@@ -1018,7 +945,6 @@ class Land_DeerStand_01_F: Military
 			{-5.50928,4.64502,1.1627}
 		};
 	};
-
 	class Land_Slum_House01_F: Shop
 	{
 		positions[] =
@@ -1027,7 +953,6 @@ class Land_DeerStand_01_F: Military
 			{-0.609863,1.53174,-0.790985}
 		};
 	};
-
 	class Land_HealthCenter_01_F: Medical
 	{
 		positions[] =
@@ -1041,7 +966,6 @@ class Land_DeerStand_01_F: Military
 			{-4.97192,4.5835,-2.7361}
 		};
 	};
-
 	class Land_ContainerLine_03_F: Factories
 	{
 		positions[] =
@@ -1085,7 +1009,6 @@ class Land_DeerStand_01_F: Military
 			{-5.31006,-2.86768,0.994525}
 		};
 	};
-
 	class Land_GuardHouse_02_grey_F: Military
 	{
 		positions[] =
@@ -1099,7 +1022,6 @@ class Land_DeerStand_01_F: Military
 			{-0.0361328,3.00732,-1.5513}
 		};
 	};
-
 	class Land_FuelStation_03_shop_F: Shop
 	{
 		positions[] =
@@ -1108,7 +1030,6 @@ class Land_DeerStand_01_F: Military
 			{-1.84863,-1.0625,-1.4488}
 		};
 	};
-
 	class Land_Chapel_02_yellow_damaged_F: CivillianLowerClass
 	{
 		positions[] =
@@ -1116,7 +1037,6 @@ class Land_DeerStand_01_F: Military
 			{-0.107422,1.63428,-1.7329}
 		};
 	};
-
 	class Land_Barracks_03_F: Military
 	{
 		positions[] =
@@ -1132,7 +1052,6 @@ class Land_DeerStand_01_F: Military
 			{-10.1309,-2.33789,-0.728409}
 		};
 	};
-
 	class Land_Barracks_02_F: Military
 	{
 		positions[] =
@@ -1147,7 +1066,6 @@ class Land_DeerStand_01_F: Military
 			{-5.33069,1.62012,-1.57597}
 		};
 	};
-
 	class Land_Workshop_02_grey_F: Industrial
 	{
 		positions[] =
@@ -1156,7 +1074,6 @@ class Land_DeerStand_01_F: Military
 			{0.972656,0.637451,-1.28378}
 		};
 	};
-
 	class Land_Chapel_02_yellow_F: CivillianLowerClass
 	{
 		positions[] =
@@ -1164,7 +1081,6 @@ class Land_DeerStand_01_F: Military
 			{-0.110352,1.63379,-2.43833}
 		};
 	};
-
 	class Land_Barracks_06_F: Military
 	{
 		positions[] =
@@ -1187,7 +1103,6 @@ class Land_DeerStand_01_F: Military
 			{-0.718262,-2.94238,-0.834846}
 		};
 	};
-
 	class Land_Barracks_04_F: Military
 	{
 		positions[] =
@@ -1205,7 +1120,6 @@ class Land_DeerStand_01_F: Military
 			{7.76855,-0.356934,-1.83922}
 		};
 	};
-
 	class Land_GuardBox_01_green_F: Military
 	{
 		positions[] =
@@ -1213,7 +1127,6 @@ class Land_DeerStand_01_F: Military
 			{-0.0180664,-1.00098,-0.820641}
 		};
 	};
-
 	class Land_Shed_02_F: Industrial
 	{
 		positions[] =
@@ -1225,7 +1138,6 @@ class Land_DeerStand_01_F: Military
 			{1.63892,-0.500977,-0.815159}
 		};
 	};
-
 	class Land_Shed_03_F: Shop
 	{
 		positions[] =
@@ -1237,7 +1149,6 @@ class Land_DeerStand_01_F: Military
 			{-1.6604,1.20313,-0.722935}
 		};
 	};
-
 	class Land_GuardTower_02_F: Military
 	{
 		positions[] =
@@ -1245,7 +1156,6 @@ class Land_DeerStand_01_F: Military
 			{0.0332031,1.97852,1.70389}
 		};
 	};
-
 	class Land_GuardBox_01_smooth_F: Military
 	{
 		positions[] =
@@ -1253,7 +1163,6 @@ class Land_DeerStand_01_F: Military
 			{-0.0175781,-1.00146,-0.820641}
 		};
 	};
-
 	class Land_Slum_House02_F: CivillianLowerClass
 	{
 		positions[] =
@@ -1275,7 +1184,6 @@ class Land_DeerStand_01_F: Military
 			{1.38867,-2.16211,-0.452957}
 		};
 	};
-
 	class Land_ServiceHangar_01_R_F: VehicleService
 	{
 		positions[] =
@@ -1293,7 +1201,6 @@ class Land_DeerStand_01_F: Military
 			{-7.78516,-17.623,3.71945}
 		};
 	};
-
 	class Land_ServiceHangar_01_L_F: VehicleService
 	{
 		positions[] =
@@ -1313,7 +1220,6 @@ class Land_DeerStand_01_F: Military
 			{-3.25781,-6,0.443138}
 		};
 	};
-
 	class Land_ControlTower_02_F: Industrial
 	{
 		positions[] =
@@ -1336,7 +1242,6 @@ class Land_DeerStand_01_F: Military
 			{0.432617,1.51758,2.72364}
 		};
 	};
-
 	class Land_Bunker_02_double_F: Military
 	{
 		positions[] =
@@ -1346,20 +1251,18 @@ class Land_DeerStand_01_F: Military
 			{-1.56836,-0.00878906,-0.751556}
 		};
 	};
-
 	class Land_GuardTower_01_F: Military
 	{
 		positions[] =
 		{
-			{-0.0373535,-2.74219,5.27417},
-			{0.770264,-3.29248,5.27415},
-			{0.146484,-6.00391,5.27411},
-			{-2.04785,-5.20557,5.27411},
-			{-0.0668945,-7.20654,5.27409},
-			{1.98682,-5.31055,5.27409}
+			{-0.0373535,-2.74219,5.2},
+			{0.770264,-3.29248,5.2},
+			{0.146484,-6.00391,5.2},
+			{-2.04785,-5.20557,5.2},
+			{-0.0668945,-7.20654,5.2},
+			{1.98682,-5.31055,5.2}
 		};
 	};
-
 	class Land_Bunker_02_light_double_F: Military
 	{
 		positions[] =
@@ -1369,7 +1272,6 @@ class Land_DeerStand_01_F: Military
 			{-1.56934,-0.00976563,-0.751553}
 		};
 	};
-
 	class Land_Barracks_05_F: Military
 	{
 		positions[] =
@@ -1388,7 +1290,6 @@ class Land_DeerStand_01_F: Military
 			{-6.85107,2.24658,-1.66199}
 		};
 	};
-
 	class Land_Bunker_02_right_F: Military
 	{
 		positions[] =
@@ -1398,24 +1299,22 @@ class Land_DeerStand_01_F: Military
 			{-2.14185,1,-0.746401}
 		};
 	};
-
 	class Land_Church_04_red_F: CivillianLowerClass
 	{
 		positions[] =
 		{
 			{-0.834961,6.70508,-13.3994},
 			{-3.07324,3.8291,-9.79788},
-			{-0.875977,4.7417,2.88566},
-			{-0.168945,5.59326,2.88566},
-			{-0.144531,7.02539,2.88566},
-			{-0.904297,7.71973,2.88566},
-			{-2.25879,7.71826,2.88566},
-			{-2.89258,7.00977,2.88566},
-			{-2.89258,5.5957,2.88566},
-			{-2.16797,4.66943,2.88566}
+			{-0.875977,4.7417,2.8},
+			{-0.168945,5.59326,2.8},
+			{-0.144531,7.02539,2.8},
+			{-0.904297,7.71973,2.8},
+			{-2.25879,7.71826,2.8},
+			{-2.89258,7.00977,2.8},
+			{-2.89258,5.5957,2.8},
+			{-2.16797,4.66943,2.8}
 		};
 	};
-
 	class Land_Church_05_F: Medical
 	{
 		positions[] =
@@ -1424,7 +1323,6 @@ class Land_DeerStand_01_F: Military
 			{-6.9209,-2.22168,-4.00879}
 		};
 	};
-
 	class Land_Bunker_02_light_right_F: Military
 	{
 		positions[] =
@@ -1434,7 +1332,6 @@ class Land_DeerStand_01_F: Military
 			{-2.14111,0.998047,-0.746399}
 		};
 	};
-
 	class Land_Bunker_02_light_left_F: Military
 	{
 		positions[] =
@@ -1444,7 +1341,6 @@ class Land_DeerStand_01_F: Military
 			{-0.950195,0.998047,-0.746414}
 		};
 	};
-
 	class Land_GuardBox_01_brown_F: Military
 	{
 		positions[] =
@@ -1452,7 +1348,6 @@ class Land_DeerStand_01_F: Military
 			{-0.0183105,-1.00146,-0.820633}
 		};
 	};
-
 	class Land_Highway_Pillar_01_garage_F: Shop
 	{
 		positions[] =
@@ -1461,7 +1356,6 @@ class Land_DeerStand_01_F: Military
 			{1.98706,0.24707,-1.44405}
 		};
 	};
-
 	class Land_Church_04_damaged_F: CivillianLowerClass
 	{
 		positions[] =
@@ -1478,7 +1372,6 @@ class Land_DeerStand_01_F: Military
 			{-2.16748,4.87305,2.88567}
 		};
 	};
-
 	class Land_Bunker_02_left_F: Military
 	{
 		positions[] =
@@ -1488,7 +1381,6 @@ class Land_DeerStand_01_F: Military
 			{-0.950684,0.998535,-0.746399}
 		};
 	};
-
 	class Land_Workshop_03_grey_F: Industrial
 	{
 		positions[] =
@@ -1498,7 +1390,6 @@ class Land_DeerStand_01_F: Military
 			{0.0366211,1.98535,-0.91156}
 		};
 	};
-
 	class Land_ControlTower_01_F: VehicleService
 	{
 		positions[] =
@@ -1528,7 +1419,6 @@ class Land_DeerStand_01_F: Military
 			{2.05835,-2.29395,4.92436}
 		};
 	};
-
 	class Land_dp_bigTank_old_F: Factories
 	{
 		positions[] =
@@ -1542,7 +1432,6 @@ class Land_DeerStand_01_F: Military
 			{0.156006,-0.441406,3.6625}
 		};
 	};
-
 	class Land_DPP_01_mainFactory_old_F: Factories
 	{
 		positions[] =
@@ -1552,7 +1441,6 @@ class Land_DeerStand_01_F: Military
 			{-19.6321,-8.31689,-3.90747}
 		};
 	};
-
 	class Land_Smokestack_01_factory_F: Factories
 	{
 		positions[] =
@@ -1567,7 +1455,6 @@ class Land_DeerStand_01_F: Military
 			{-0.489258,-0.603027,-23.0886}
 		};
 	};
-
 	class Land_CementWorks_01_grey_F: Factories
 	{
 		positions[] =
@@ -1617,20 +1504,18 @@ class Land_DeerStand_01_F: Military
 			{-5.93823,-20.2402,-4.42525}
 		};
 	};
-
 	class Land_Radar_01_cooler_F: Factories
 	{
 		positions[] =
 		{
-			{2.92188,0.0351563,3.93903},
-			{2.8418,-1.2666,3.93903},
-			{2.82129,-2.59033,3.93903},
-			{-2.24805,-0.0888672,3.93903},
-			{-2.24756,-1.62695,3.93903},
-			{-2.24756,-3.09863,3.93903}
+			{2.92188,0.0351563,3.9},
+			{2.8418,-1.2666,3.9},
+			{2.82129,-2.59033,3.9},
+			{-2.24805,-0.0888672,3.9},
+			{-2.2,-1.62695,3.9},
+			{-2.2,-3.09863,3.9}
 		};
 	};
-
 	class Land_House_2W05_F: CivillianUpperClass
 	{
 		positions[] =
@@ -1650,22 +1535,20 @@ class Land_DeerStand_01_F: Military
 			{-6.05371,-0.362793,-0.464676}
 		};
 	};
-
 	class Land_Smokestack_01_F: Factories
 	{
 		positions[] =
 		{
-			{-0.369629,-0.603516,-28.268},
-			{-3.84082,-1.99609,-23.0886},
-			{-0.216309,-1.99609,-23.0886},
-			{-2.11816,0.755859,-23.0886},
-			{-3.24512,5.86914,-6.0216},
-			{-2.10107,1.8418,10.8525},
-			{-2.1167,5.78711,10.7725},
-			{-0.489258,-0.603516,-23.0886}
+			{-0.369629,-0.603516,-28},
+			{-3.84082,-1.99609,-23},
+			{-0.216309,-1.99609,-23},
+			{-2.11816,0.755859,-23},
+			{-3.24512,5.86914,-6},
+			{-2.10107,1.8418,10.8},
+			{-2.1167,5.78711,10.7},
+			{-0.489258,-0.603516,-23}
 		};
 	};
-
 	class Land_Sawmill_01_illuminati_tower_F: Factories
 	{
 		positions[] =
@@ -1673,7 +1556,6 @@ class Land_DeerStand_01_F: Military
 			{0.00390625,-0.517578,10.4485}
 		};
 	};
-
 	class Land_FuelStation_Build_F: Shop
 	{
 		positions[] =
@@ -1682,7 +1564,6 @@ class Land_DeerStand_01_F: Military
 			{-1.84863,-0.682129,-1.20821}
 		};
 	};
-
 	class Land_Chapel_02_white_damaged_F: CivillianLowerClass
 	{
 		positions[] =
@@ -1690,24 +1571,22 @@ class Land_DeerStand_01_F: Military
 			{-0.107422,1.63379,-1.73289}
 		};
 	};
-
 	class Land_Church_04_white_red_F: Medical
 	{
 		positions[] =
 		{
 			{-0.835449,6.70605,-13.3994},
 			{-3.07324,3.83008,-9.79788},
-			{-0.876465,4.74219,2.88565},
-			{-0.168701,5.59375,2.88565},
-			{-0.143799,7.02539,2.88565},
-			{-0.905518,7.71973,2.88565},
-			{-2.25977,7.71875,2.88565},
-			{-2.89209,7.00879,2.88565},
-			{-2.89233,5.5957,2.88565},
-			{-2.16748,4.66895,2.88565}
+			{-0.876465,4.74219,2.8},
+			{-0.168701,5.59375,2.8},
+			{-0.143799,7.02539,2.8},
+			{-0.905518,7.71973,2.8},
+			{-2.25977,7.71875,2.8},
+			{-2.89209,7.00879,2.8},
+			{-2.89233,5.5957,2.8},
+			{-2.16748,4.66895,2.8}
 		};
 	};
-
 	class Land_CoalPlant_01_MainBuilding_F: Factories
 	{
 		positions[] =
@@ -1731,20 +1610,19 @@ class Land_DeerStand_01_F: Military
 			{5.94727,18.9551,6.85789}
 		};
 	};
-
 	class Land_Church_04_yellow_damaged_F: CivillianLowerClass
 	{
 		positions[] =
 		{
 			{-0.835938,6.70508,-13.3994},
 			{-3.07227,3.82959,-9.79788},
-			{-0.875977,4.7417,2.88566},
-			{-0.168945,5.59326,2.88566},
-			{-0.142578,7.02539,2.88566},
-			{-0.904297,7.71875,2.88566},
-			{-2.25977,7.71826,2.88566},
-			{-2.8916,7.00879,2.88566},
-			{-2.89063,5.59619,2.88566},
-			{-2.16602,4.66846,2.88566}
+			{-0.875977,4.7417,2.8},
+			{-0.168945,5.59326,2.8},
+			{-0.142578,7.02539,2.8},
+			{-0.904297,7.71875,2.8},
+			{-2.25977,7.71826,2.8},
+			{-2.8916,7.00879,2.8},
+			{-2.89063,5.59619,2.8},
+			{-2.16602,4.66846,2.8}
 		};
 	};
