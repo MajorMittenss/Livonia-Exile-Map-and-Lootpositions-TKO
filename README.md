@@ -1,4 +1,4 @@
-# Livonia-TKO
+# Livonia Exile Map and loot positions.-TKO
 "ThomasTKO"
 My Mission for Livonia
 
